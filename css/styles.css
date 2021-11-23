@@ -152,4 +152,8 @@ section:not(#head)
     {
         margin-bottom: 20px;
     }
+    #gallery
+    {
+        padding: 20px !important;
+    }
 }
